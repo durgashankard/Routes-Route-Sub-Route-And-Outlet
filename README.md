@@ -37,11 +37,17 @@ The application allows users to:
 ## 🚀 Features
 
 ✅ Login Authentication (Basic)
+
 ✅ Dynamic Category Listing
+
 ✅ Filter Products by Category
+
 ✅ Nested Routing using `<Outlet />`
+
 ✅ Product Details Page
+
 ✅ JSON Server Integration
+
 ✅ Clean UI using Bootstrap
 
 ---
