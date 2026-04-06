@@ -8,7 +8,7 @@
 ## 🎬 Live Demo
 
 👉 https://shopper-app-react-route-outlet.netlify.app/  
-*(Replace this with your deployed Vercel link)*
+
 
 ---
 
