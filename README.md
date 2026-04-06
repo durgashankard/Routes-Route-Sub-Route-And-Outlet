@@ -1,6 +1,18 @@
 # React + Vite
 
 
+> ⚠️ **Note:** If you try this project, use password **"Admin"** to access the Home page.
+
+---
+
+## 🎬 Live Demo
+
+👉 https://shopper-app-react-route-outlet.netlify.app/  
+*(Replace this with your deployed Vercel link)*
+
+---
+
+
 # 🛒 Shopper App (React Routing + JSON Server)
 
 ## 📌 Project Overview
