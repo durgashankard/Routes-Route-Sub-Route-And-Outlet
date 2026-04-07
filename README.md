@@ -162,7 +162,9 @@ npx json-server --watch db.json --port 3000
 npm create vite@latest
 cd project-name
 npm install
-npm install axios react-router-dom formik
+npm install axios --save
+npm install react-router-dom --save
+npm install formik --save
 npm run dev
 ```
 
