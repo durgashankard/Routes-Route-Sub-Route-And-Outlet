@@ -1,6 +1,5 @@
 # React + Vite
 
-
 > ⚠️ **Note:** If you try this project, use password **"Admin"** to access the Home page.
 
 ---
